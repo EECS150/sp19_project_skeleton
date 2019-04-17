@@ -1,1 +1,4 @@
 .DS_Store
+vivado_final/vivado_final.sim/
+vivado_final/vivado_final.runs/
+hardware/sim/build/
